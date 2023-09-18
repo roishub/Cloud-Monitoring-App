@@ -18,7 +18,7 @@ The objective of this project is to:
 6. Docker Image Build:
     Build a Docker image from the Dockerfile, which encapsulates the application and its environment.
    
-7. ocker Container Deployment:
+7. Docker Container Deployment:
     Deploy a Docker container from the previously built Docker image, enabling the application to run within the container.
 
 8. ECR Image Repository:
